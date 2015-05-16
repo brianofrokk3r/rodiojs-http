@@ -20,7 +20,7 @@ node rhodio --help
 ### Example
 ##### Input
 ```
-node rhodio -t 5 -c 1 -x "foo=1&baz=2" -h "http://www.rokk3rlabs.com"
+node rhodio -t 5 -c 1 -x "foo=1&baz=2" -h "http://www.google.com"
 ```
 ##### Output
 ```
