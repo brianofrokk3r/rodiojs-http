@@ -13,7 +13,7 @@ node rhodio --help
 -V, --version          output the version number
 -t, --time <n>         Total time to elapse (seconds)
 -c, --concurrency <n>  Number of concurrent requests (requests/second)
--x, --post <s>         Post parameters in quoted querystring form ( e.g. "foo=1&baz=2" )
+-x, --post <s>         POST parameters in quoted querystring form ( e.g. "foo=1&baz=2" )
 -h, --host <s>         HTTP host to request in quotes
 ```
 
