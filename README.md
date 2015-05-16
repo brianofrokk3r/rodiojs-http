@@ -1,6 +1,6 @@
-# rhodio.js
+# rodio.js
 
-*Rhodio* is a simple HTTP benchmarking tool.
+*rodio-http* is a simple HTTP benchmarking tool.
 
 ### Help
 ```
