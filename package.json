@@ -1,5 +1,5 @@
 {
-  "name": "rhodio.js",
+  "name": "rodio.js",
   "version": "0.0.1",
   "description": "Simple Node.js HTTP benchmark.",
   "main": "index.js",
