@@ -1,0 +1,15 @@
+{
+  "name": "rhodio.js",
+  "version": "0.0.0",
+  "description": "Simple Node.js HTTP benchmark.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "request": "^2.55.0"
+  }
+}
