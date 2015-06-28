@@ -1,6 +1,6 @@
 {
   "name": "rodio.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Simple Node.js HTTP benchmark.",
   "main": "index.js",
   "scripts": {
